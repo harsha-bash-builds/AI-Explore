@@ -1,0 +1,13 @@
+{
+  "name": "folio-personal-cards",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A personal credit-card dashboard, built for GitHub Pages.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "test": "node --test",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
